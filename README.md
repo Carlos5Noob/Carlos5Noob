@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mi</h3>
+<h3 align="left">👩‍💻  Sobre mí</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 - 🌱 Web developer in growing
 
 U can see my portfolio on the next link:
-- https://carlos5noob.github.io/Portfolio-Carlos_Chacon/
+- https://portfolio-carlos5noob.vercel.app/
 
 ###
 
